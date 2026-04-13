@@ -1,13 +1,15 @@
-# Unplanned-Obsolescence
+# Unplanned Obsolescence (Tower Defense Game)
 
-A tower defense game where your towers decay over time.
+A tower defense game where player-built towers degrade over time, forcing resource management.
 
 **Features**
-- Tower placement and upgrade system.
-- Placed towers attack enemies within range. Each shot decreases the tower's remaining health.
-- Enemies progressively become stronger with intermittent bosses.
+- Tower placement and upgrade system
+- Towers attack enemies within range, with each attack reducing tower durability
+- Progressive difficulty with increasingly stronger enemies and periodic boss encounters
 
 **Technologies**
-- C# using the Unity Engine
+- C#
+- Unity Engine
 
-This is a collection of project code and assets, not a built program.
+**Notes**
+- Repository contains source code and assets for the project
